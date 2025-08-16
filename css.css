@@ -84,6 +84,24 @@ font-size: 2.5em;
   font-size: .25em;
 }
 
+.REMlargeText{
+  font-size: 3em;
+}
+
+.REMsmallText{
+font-size: 1.25em;
+}
+.REMnormalText{
+  font-size: 2em;
+}
+.REMmediumText{
+font-size: 2.5em;
+}
+.REMtinyText{
+  font-size: .25em;
+}
+
+
 .hrWeight{
   height: .3em;
   background-color: white;
