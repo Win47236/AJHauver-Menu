@@ -8,47 +8,57 @@ BG Lavender: DCD0D8
 
 /* Main Color Sceme Layout*/
 .secondaryText {
-    color: #f1efed;
-  }
-  
-  .mainText {
-    color: #140d0d;
-  }
-  
-  /* .accentText {
+  color: #f1efed;
+}
+
+.mainText {
+  color: #140d0d;
+}
+
+/* .accentText {
     color: #790000;
   } */
-  
-  .BGLavender {
-    background-color: #DCD0D8;
-  }
 
-  .lavender{
-    background-color: #CBB9C5;
-  }
-  
-  .red {
-    background-color: #52000B;
-  }
-  
-  .yellow {
-    background-color: #E19C00;
-  }
+.BGLavender {
+  background-color: #DCD0D8;
+}
 
-  .green {
-    background-color: #849C81;
-  }
-  
-  .mainFont {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    /* font-family: 'Playfair', serif; */
-  }
+.lavender {
+  background-color: #CBB9C5;
+}
 
-  .image{
-    object-fit: contain;
-    /* padding: .5em; */
-    width: 100%;
-    height: 100%;
-  }
+.red {
+  background-color: #52000B;
+}
 
-  
+.yellow {
+  background-color: #E19C00;
+}
+
+.green {
+  background-color: #849C81;
+}
+
+.mainFont {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  /* font-family: 'Playfair', serif; */
+}
+
+.image {
+  object-fit: contain;
+  /* padding: .5em; */
+  width: 100%;
+  height: 100%;
+}
+
+.brushFont {
+  font-family: 'Brush Script MT', cursive;
+}
+
+.garamondFont {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.verdana {
+  font-family: Verdana, Tahoma, sans-serif;
+}
