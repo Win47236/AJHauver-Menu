@@ -53,14 +53,18 @@ BG Lavender: DCD0D8
 
 .brushFont {
   font-family: 'Brush Script MT', cursive;
+  text-align: center;
 }
 
 .georgiaFont {
   font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
 }
 
 .verdanaFont {
   font-family: Verdana, Tahoma, sans-serif;
+  font-weight: bold;
+  text-align: center;
 }
 
 .largeText{
@@ -81,4 +85,9 @@ font-size: 2em;
 .hrWeight{
   height: .3em;
   background-color: white;
+}
+
+.underline{
+  text-decoration: underline;
+  text-align: center;
 }
