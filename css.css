@@ -68,15 +68,17 @@ BG Lavender: DCD0D8
 }
 
 .largeText{
-  font-size: 2.5em;
+  font-size: 3em;
 }
 
 .smallText{
 font-size: 1.25em;
 }
-
+.normalText{
+  font-size: 2em;
+}
 .mediumText{
-font-size: 2em;
+font-size: 2.5em;
 }
 .tinyText{
   font-size: .25em;
@@ -90,4 +92,33 @@ font-size: 2em;
 .underline{
   text-decoration: underline;
   text-align: center;
+}
+
+td{
+  padding-top: .5em;
+  text-align: left;
+  /* padding-right: .5em;s */
+}
+
+th{
+  text-align: center;
+  /* padding-right: .5em; */
+}
+
+ul{
+  text-align: left;
+}
+
+.bottomBorder{
+  border-bottom: 1px solid black;
+  border-collapse: collapse;
+}
+
+.rightBorder{
+  border-right: 1px solid black;
+  border-collapse: collapse;
+}
+
+.leftPadding{
+  /* padding-left: .5em; */
 }
