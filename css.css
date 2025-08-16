@@ -1,3 +1,11 @@
+/* Wedding colors:
+yellow: E19C00
+burgandy: 52000B
+Sage Green: 849C81
+Lavender: CBB9C5
+BG Lavender: DCD0D8
+*/
+
 /* Main Color Sceme Layout*/
 .secondaryText {
     color: #f1efed;
@@ -7,20 +15,28 @@
     color: #140d0d;
   }
   
-  .accentText {
+  /* .accentText {
     color: #790000;
+  } */
+  
+  .BGLavender {
+    background-color: #DCD0D8;
+  }
+
+  .lavender{
+    background-color: #CBB9C5;
   }
   
-  .mainBackground {
-    background-color: #f1efed;
+  .red {
+    background-color: #52000B;
   }
   
-  .secondaryBackground {
-    background-color: #140d0d;
+  .yellow {
+    background-color: #E19C00;
   }
-  
-  .accentBackground {
-    background-color: #790000;
+
+  .green {
+    background-color: #849C81;
   }
   
   .mainFont {
