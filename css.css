@@ -1,0 +1,29 @@
+/* Main Color Sceme Layout*/
+.secondaryText {
+    color: #f1efed;
+  }
+  
+  .mainText {
+    color: #140d0d;
+  }
+  
+  .accentText {
+    color: #790000;
+  }
+  
+  .mainBackground {
+    background-color: #f1efed;
+  }
+  
+  .secondaryBackground {
+    background-color: #140d0d;
+  }
+  
+  .accentBackground {
+    background-color: #790000;
+  }
+  
+  .mainFont {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* font-family: 'Playfair', serif; */
+  }
