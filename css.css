@@ -79,5 +79,6 @@ font-size: 2em;
 }
 
 .hrWeight{
-  height: 1em;
+  height: .25em;
+  background-color: white;
 }
