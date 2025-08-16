@@ -64,7 +64,7 @@ BG Lavender: DCD0D8
 }
 
 .largeText{
-  font-size: 4em;
+  font-size: 3em;
 }
 
 .smallText{
@@ -74,7 +74,9 @@ font-size: 1em;
 .mediumText{
 font-size: 2em;
 }
-
+.tinyText{
+  font-size: .5em;
+}
 /* .suckTextSize{
   font-size: 2.5em;
 } */
