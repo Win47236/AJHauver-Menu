@@ -62,3 +62,19 @@ BG Lavender: DCD0D8
 .verdanaFont {
   font-family: Verdana, Tahoma, sans-serif;
 }
+
+.largeText{
+  font-size: 4em;
+}
+
+.smallText{
+font-size: 1em;
+}
+
+.mediumText{
+font-size: 2em;
+}
+
+.suckTextSize{
+  font-size: 5em;
+}
